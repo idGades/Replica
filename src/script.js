@@ -4,3 +4,6 @@ function hello (argument) {
 function goodbye(argument) {
 	// body...
 }
+function goodbye(argument) {
+	// Something for work
+}
