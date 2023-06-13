@@ -6,4 +6,5 @@ function goodbye(argument) {
 }
 function thanks(argument) {
 	// Something for work
+	//halo
 }
