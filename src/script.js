@@ -4,6 +4,6 @@ function hello (argument) {
 function goodbye(argument) {
 	// body...
 }
-function goodbye(argument) {
+function thanks(argument) {
 	// Something for work
 }
